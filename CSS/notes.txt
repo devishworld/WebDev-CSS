@@ -1,0 +1,25 @@
+CSS
+Cascading Style Sheet
+a=2
+a=3
+a=5
+print(a)
+h1{
+    background-color:black;
+}
+h1{
+    background-color:green;
+}
+
+Types of CSS
+    Inline Style = <h1 style="color:red;">Heading</h1>
+    Internal Style = within head tag
+    External Style = we will have an external file with all the stylings
+
+Position
+Static = default
+Relative = Relative to the nearest positioned ancestor
+Fixed = Fixed to the viewport  
+Absolute = Absolute to the nearest ancestor
+Sticky = 
+
